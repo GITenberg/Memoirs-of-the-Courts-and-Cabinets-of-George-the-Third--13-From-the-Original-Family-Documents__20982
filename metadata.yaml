@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9651'
     url: http://www.gutenberg.org/2009/agents/9651
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20982#Memoirs-of-the-Courts-and-Cabinets-of-George-the-Third--13-From-the-Original-Family-Documents_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-04-04'
 gutenberg_type: Text
